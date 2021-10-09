@@ -8,11 +8,15 @@ The purpose of this analysis is to determine the number of retiring employees pe
 
 ![Retiring Titles](Resources/retiring_titles.png)
 
+The above screenshot shows how many employees are retiring by title.
+
 - The first observation we can make from the data we collected is the disproportionate amount of employees who are senior engineers or staff who are retiring. This makes sense, as tenured employees have a higher likelihood of being promoted to the senior level. As this large number of senior employees retires, the void must be filled with either internal promotions or external hiring.
 
 - We can also see that there is a much lower number of technique leaders and assistant engineers who are retiring. We can use this to our advantage and focus on external hires to fill these base level positions, while promoting current staff, engineers, assistant engineers, and technique leaders.
 
 ![Mentorship Eligibility](Resources/mentorship_eligibility.png)
+
+The above screenshot shows how many employees are eligible for the mentorship program.
 
 - When analyzing the employees who are eligible for the mentorship program, we can see that there are very few eligibile in relation to the vast number of employees retiring. There are roughly 72,458 employees retiring and only 1,549 who are eligible for the mentorship program. This will make the tranition of filling the retired employees much more difficult and may make external hiring a larger requirement.
 
